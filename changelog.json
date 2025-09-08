@@ -1,0 +1,25 @@
+{
+    "changes": {
+        "0.9.0": "Release to public version, commands in at least semi-working conditions. (inactivity, log { partnership, advertise, application, activity, warning, event, feedback, blacklist, role }, review-queue, who-is-clocked-in, hours-worked, bug-report, clock { in, out, view }, shift { create, compensate }, set-my-auto-clock, set-auto-clock, view-logs, view-schedule, view-hours-graph)",
+        "0.9.1": "Fixed a minor issue with commands. (+bot.js^)",
+        "0.9.15": "Fixed a major small issue with the bot responding to guilds other than Amazark."
+    },
+    "upcoming": {
+        "commands": {
+            "settings": {
+                "Setup": "Setting up the server for people to start using the commands and functionality.",
+                "Disabling_Commands": "The ability to disable a command(s) server-wide, or for specific roles.",
+                "Roles": "Setting what roles have access to and can do what.",
+
+                "set-auto-clock": "Server-wide"
+            },
+            "assign-developer": [
+                "DMs a developer/employee telling them that they are assigned to a commission"
+            ]
+        },
+        "general": [
+            "Fully fixing other guilds' access to using commands, including paid access fixes.",
+            "Automatic clock out count. (If they miss 3 or more, bot should check every 2 hours instead of 4. Then 6, they will be notified that if they don't stop missing the checks/reminders, they will be removed from the permission of being able to clock in or out until they or their manager/server owner message Amazark or me directly)"
+        ]
+    }
+}
