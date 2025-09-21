@@ -16,6 +16,9 @@
             },
             "assign-developer": [
                 "DMs a developer/employee telling them that they are assigned to a commission"
+            ],
+            "info": [
+                "Shows the information about the server and Discord connection properties."
             ]
         },
         "general": [
