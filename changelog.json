@@ -10,6 +10,7 @@
                 "Setup": "Setting up the server for people to start using the commands and functionality.",
                 "Disabling_Commands": "The ability to disable a command(s) server-wide, or for specific roles.",
                 "Roles": "Setting what roles have access to and can do what.",
+                "Users": "Setting what users have access to and can do what.",
 
                 "set-auto-clock": "Server-wide"
             },
